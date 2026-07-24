@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationwalnutcreek.com/sitemap.xml
